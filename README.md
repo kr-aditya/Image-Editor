@@ -94,13 +94,4 @@ Make sure you are using correct version of node and npm. For further assistance 
 
 I know that you should never leak your environment variables but for testing purposes for the judges to make it easy for them I open-sourced .env
 
-### Contact
-You can contact me through this platforms I am mostly active at this platforms.
-
-[X](https://www.twitter.com/meckskyverse)<br>
-[Instagram](https://www.instagram.com/mecskyverse)
-
-or you can contact me through my portfolio
-
-[Portfolio](https://aakashverma.vercel.app/).
 
